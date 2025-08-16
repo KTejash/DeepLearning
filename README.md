@@ -9,15 +9,18 @@ This is a curated collection of notes, implementations, and experiments covering
 ### Core Topics 📜
 
 ✔ Neural Networks (MLPs, CNNs, RNNs, Transformers)
+
 ✔ Optimization & Training (SGD, Adam, LR Scheduling, Regularization)
+
 ✔ Generative Models (GANs, VAEs, Diffusion Models)
+
 ✔ NLP & Computer Vision (BERT, ResNet, YOLO, GPT-like models)
 
 ---
 ### 🔧 Setup
 Clone the repo:
-git clone https://github.com/shubhamp1028/DeepLearning.git
-cd DeepLearning
+    git clone https://github.com/shubhamp1028/DeepLearning.git
+    cd DeepLearning
 
 ---
 ### Contribution & Support
