@@ -1,11 +1,12 @@
 # Deep Learning Notebook
 
 ---
-This is a curated collection of notes, implementations, and experiments covering fundamental to advanced deep learning concepts, implemented in PyTorch and TensorFlow. Whether you're learning or building, hope you find this useful!
+### This is a curated collection of notes, implementations, and experiments covering fundamental to advanced deep learning concepts, implemented in PyTorch and TensorFlow. Whether you're learning or building, hope you find this useful!
 
 ![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch)
 
----
+### ⭐ Star this repo if you found it helpful! Happy deep learning! 🚀
+
 ### Core Topics 📜
 
 ✔ Neural Networks (MLPs, CNNs, RNNs, Transformers)
@@ -16,11 +17,13 @@ This is a curated collection of notes, implementations, and experiments covering
 
 ✔ NLP & Computer Vision (BERT, ResNet, YOLO, GPT-like models)
 
----
+
 ### 🔧 Setup
 Clone the repo:
+
     git clone https://github.com/shubhamp1028/DeepLearning.git
     cd DeepLearning
+
 
 ---
 ### Contribution & Support
@@ -28,8 +31,7 @@ Found a bug? Open an Issue.
 
 Want to add something? Submit a Pull Request!
 
-Need help? Reach out at your-email@example.com.
+Need help? Reach out at shubham30p@gmail.com.
 
 ---
-###⭐ Star this repo if you found it helpful! Happy deep learning! 🚀
 
