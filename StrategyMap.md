@@ -1,5 +1,6 @@
+```mermaid
 mindmap
-  root((Deep Learning Path))
+  root((Deep Learning Learning Path))
     Foundations
       Mathematics
         Linear Algebra
@@ -7,47 +8,79 @@ mindmap
         Probability & Statistics
       Programming
         Python
-        NumPy
-        Pandas
-        Visualization
-    Core Neural Networks
+        NumPy / Pandas
+        Visualization (Matplotlib, Seaborn)
+    Core Concepts
       Perceptrons
-      MLPs
+      Activation Functions
+      Loss Functions
+      Gradient Descent & Backpropagation
+      Regularization (Dropout, L2, BatchNorm)
+    Artificial Neural Networks (ANNs)
+      MLP (Multi-Layer Perceptron)
+      Architectures
+        Input Layer
+        Hidden Layers
+        Output Layer
       Training
-        Loss Functions
-        Gradient Descent
-        Optimization
-        Regularization
-    Architectures
-      CNNs
+        Optimization (SGD, Adam)
+        Overfitting vs Underfitting
+      Applications
+        Tabular Data
+        Regression
+        Classification
+    Convolutional Neural Networks (CNNs)
+      Concepts
         Convolutions
-        Architectures
-        Applications
-      RNNs
-        LSTMs
-        GRUs
-        Applications
-      Transformers
-        Attention
-        BERT/GPT
+        Pooling
+        Padding & Stride
+      Architectures
+        LeNet
+        AlexNet
+        VGG
+        ResNet
+        EfficientNet
+      Applications
+        Image Classification
+        Object Detection (YOLO, Faster R-CNN)
+        Image Segmentation (U-Net, Mask R-CNN)
+    Recurrent Neural Networks (RNNs)
+      Basics
+        Sequence Modeling
+        Vanishing/Exploding Gradients
+      Architectures
+        Simple RNN
+        LSTM
+        GRU
+      Applications
+        NLP (Sentiment Analysis, Text Generation)
+        Speech Recognition
+        Time Series Forecasting
+    Transformers
+      Attention Mechanism
+      Encoder-Decoder Models
+      BERT
+      GPT
+      Applications
+        Language Translation
+        Chatbots
+        Summarization
     Advanced Topics
       Generative Models
-        VAEs
+        Variational Autoencoders (VAEs)
         GANs
       Reinforcement Learning
       Unsupervised Learning
-    Specialized Architectures
-      GNNs
-      Capsule Networks
-      Neural ODEs
     Implementation
       Frameworks
         TensorFlow
         PyTorch
       Deployment
-      Optimization
+        ONNX
+        TensorRT
+        Model Serving
     Ethics & Society
       Bias & Fairness
       Explainable AI
       Privacy
-      Environment
+      Sustainability
