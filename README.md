@@ -1,6 +1,8 @@
 # Deep Learning Notebook
 
 ---
+<img width="1567" height="859" alt="image" src="https://github.com/user-attachments/assets/4ba0f376-6b8b-45ea-ae0c-2e45d0a35357" />
+
 ### This is a curated collection of notes, implementations, and experiments covering fundamental to advanced deep learning concepts, implemented in PyTorch and TensorFlow. Whether you're learning or building, hope you find this useful!
 
 ![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch)
