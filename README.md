@@ -15,9 +15,11 @@
 
 ✔ Optimization & Training (SGD, Adam, LR Scheduling, Regularization)
 
-✔ Generative Models (GANs, VAEs, Diffusion Models)
+Comming soon : 
 
-✔ NLP & Computer Vision (BERT, ResNet, YOLO, GPT-like models)
+❎ Generative Models (GANs, VAEs, Diffusion Models)
+
+❎ NLP & Computer Vision (BERT, ResNet, YOLO, GPT-like models)
 
 
 ### 🔧 Setup
