@@ -38,4 +38,6 @@ Want to add something? Submit a Pull Request!
 Need help? Reach out at shubham30p@gmail.com.
 
 ---
-
+## Author
+😎 Shubham Pandey (shubham30p@gmial.com)
+😎 Tejash Aryan (tejasharyan550@gmail.com)
